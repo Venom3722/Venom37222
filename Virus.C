@@ -5,5 +5,4 @@ int main(void)
     fork(); 
   return 0; 
 }
-//I am not responsible for ANY DAMAGE you do to yourself or to others using this code...
-AS YOU COMPILE THE CODE, YOUR COMPUTER/DEVICE WILL FREEZE...
+/* I am not responsible and will not accept any alligation thrown to my respriotry, Compile at your own risk and again i say, I AM NOT RESPONSIBLE, NEITHER WILL BE, FOR ANY DAMAGE CAUSED BY YOU TO OTHERS*/
